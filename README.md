@@ -86,17 +86,6 @@ Feel free to contribute, report issues, or suggest improvements! 🚀
 
 ---
 
-Your **GitHub README** looks great! 🚀 If you'd like to further optimize it, you could:  
-
-1. **Add a Table of Contents** for easy navigation.  
-2. **Include Sample Code** for running the models.  
-3. **Add a GIF or Image** showcasing results (e.g., uplift gain charts).  
-4. **Link Your LinkedIn Profile** directly inside the README.  
-
-For your LinkedIn & email contact, you could add this section at the bottom of your README:  
-
----
-
 ### **📬 Contact & Connect**  
 📧 **Email**: [hijirdw@gmail.com](mailto:hijirdw@gmail.com)  
 🔗 **LinkedIn**: [Hijir Della Wirasti](https://www.linkedin.com/in/hijirdella/)  
