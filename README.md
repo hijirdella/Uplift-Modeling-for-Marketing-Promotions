@@ -1,5 +1,3 @@
-Here's an updated **README.md** with the exact numbers you provided:  
-
 ---
 
 ## **Uplift Modeling: Discount vs. Buy One Get One (BOGO) 📊**  
