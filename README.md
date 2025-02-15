@@ -10,7 +10,7 @@ This project explores **Uplift Modeling** to measure the impact of two marketing
 
 The goal is to identify **persuadable customers**, optimize targeting, and maximize conversion rates while minimizing marketing waste.  
 
----
+--
 
 ### **🔍 Key Insights & Findings**  
 #### **Offer Effectiveness**  
