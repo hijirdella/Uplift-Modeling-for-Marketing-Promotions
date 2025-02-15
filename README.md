@@ -54,7 +54,6 @@ The goal is to identify **persuadable customers**, optimize targeting, and maxim
 ✔ **Prioritize Discount over BOGO** for promotions, as it led to **733 more conversions** compared to **315 from BOGO**.  
 ✔ **Use S-Learner for Discount campaigns**, as it outperformed Uplift Random Forest (**AUUC: 0.523 vs. 0.477**).  
 ✔ **Improve segmentation** to avoid targeting customers with negative uplift scores (-0.198 for Discount, -0.217 for BOGO).  
-✔ **Test alternative uplift models** (e.g., Uplift Tree, T-Learner) to enhance prediction accuracy.  
 
 ---
 
